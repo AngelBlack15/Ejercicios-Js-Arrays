@@ -7,5 +7,5 @@ function invertirArreglo(arr) {
 }
 
 // Ejemplo de uso
-const numeros = [3, 7, 2, 9, 5];
-console.log(invertirArreglo(numeros)); // Salida: [5, 9, 2, 7, 3]
+const numerossss = [3, 7, 2, 9, 5];
+console.log(invertirArreglo(numerossss)); // Salida: [5, 9, 2, 7, 3]

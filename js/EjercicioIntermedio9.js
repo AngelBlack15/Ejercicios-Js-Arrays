@@ -3,6 +3,6 @@ function sumaAcumulada(arr) {
   }
   
   // Ejemplo de uso
-  const numeros = [1, 2, 3, 4];
-  console.log(sumaAcumulada(numeros)); // Salida: 10
+  const numeros09 = [1, 2, 3, 4];
+  console.log(sumaAcumulada(numeros09)); // Salida: 10
   

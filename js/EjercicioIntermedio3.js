@@ -3,6 +3,6 @@ function palabrasMasLargas(arr, n) {
   }
   
   // Ejemplo de uso
-  const palabras = ["casa", "automóvil", "perro", "computadora"];
-  console.log(palabrasMasLargas(palabras, 5)); // Salida: ['automóvil', 'computadora']
+  const palabras3 = ["casa", "automóvil", "perro", "computadora"];
+  console.log(palabrasMasLargas(palabras3, 5)); // Salida: ['automóvil', 'computadora']
   

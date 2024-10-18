@@ -3,6 +3,6 @@ function unirEnCadena(arr) {
   }
   
   // Ejemplo de uso
-  const palabras = ["casa", "auto", "perro"];
-  console.log(unirEnCadena(palabras)); // Salida: 'casa, auto, perro'
+  const palabras4 = ["casa", "auto", "perro"];
+  console.log(unirEnCadena(palabras4)); // Salida: 'casa, auto, perro'
   

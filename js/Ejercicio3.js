@@ -3,5 +3,5 @@ function promedioNumeros(arr) {
 }
 
 // Ejemplo de uso
-const numeros = [3, 7, 2, 9, 5];
-console.log(promedioNumeros(numeros)); // Salida: 5.2
+const numerosss = [3, 7, 2, 9, 5];
+console.log(promedioNumeros(numerosss)); // Salida: 5.2

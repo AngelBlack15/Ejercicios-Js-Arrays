@@ -3,6 +3,6 @@ function numeroMayorMultidimensional(arr) {
   }
   
   // Ejemplo de uso
-  const numeros = [[1, 2], [3, 4], [5, 6]];
-  console.log(numeroMayorMultidimensional(numeros)); // Salida: 6
+  const numeros007 = [[1, 2], [3, 4], [5, 6]];
+  console.log(numeroMayorMultidimensional(numeros007)); // Salida: 6
   

@@ -3,6 +3,6 @@ function buscarElemento(arr, valor) {
 }
 
 // Ejemplo de uso
-const numeros = [1, 2, 3, 4, 5];
-console.log(buscarElemento(numeros, 3)); // Salida: true
-console.log(buscarElemento(numeros, 6)); // Salida: false
+const numeros9 = [1, 2, 3, 4, 5];
+console.log(buscarElemento(numeros9, 3)); // Salida: true
+console.log(buscarElemento(numeros9, 6)); // Salida: false

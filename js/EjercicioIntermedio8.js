@@ -3,6 +3,6 @@ function algunosPares(arr) {
   }
   
   // Ejemplo de uso
-  const numeros = [1, 3, 5, 8];
-  console.log(algunosPares(numeros)); // Salida: true
+  const numeros08 = [1, 3, 5, 8];
+  console.log(algunosPares(numeros08)); // Salida: true
   

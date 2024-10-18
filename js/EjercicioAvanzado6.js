@@ -3,7 +3,7 @@ function todosUnicos(arr) {
   }
   
   // Ejemplo de uso
-  const numeros = [1, 2, 3, 4, 5];
-  console.log(todosUnicos(numeros)); // Salida: true
+  const numeros006 = [1, 2, 3, 4, 5];
+  console.log(todosUnicos(numeros006)); // Salida: true
   console.log(todosUnicos([1, 2, 2, 3])); // Salida: false
   

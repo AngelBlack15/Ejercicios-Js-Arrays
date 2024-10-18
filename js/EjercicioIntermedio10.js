@@ -3,6 +3,6 @@ function productoElementos(arr) {
   }
   
   // Ejemplo de uso
-  const numeros = [1, 2, 3, 4];
-  console.log(productoElementos(numeros)); // Salida: 24
+  const numeros010 = [1, 2, 3, 4];
+  console.log(productoElementos(numeros010)); // Salida: 24
   

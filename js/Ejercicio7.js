@@ -3,5 +3,5 @@ function eliminarDuplicados(arr) {
 }
 
 // Ejemplo de uso
-const numeros = [1, 2, 2, 3, 4, 4, 5];
-console.log(eliminarDuplicados(numeros)); // Salida: [1, 2, 3, 4, 5]
+const numerosssssss = [1, 2, 2, 3, 4, 4, 5];
+console.log(eliminarDuplicados(numerosssssss)); // Salida: [1, 2, 3, 4, 5]

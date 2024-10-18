@@ -3,7 +3,7 @@ function combinarArreglos(arr1, arr2) {
   }
   
   // Ejemplo de uso
-  const arr1 = [1, 2, 3];
-  const arr2 = [3, 4, 5];
-  console.log(combinarArreglos(arr1, arr2)); // Salida: [1, 2, 3, 4, 5]
+  const arr01 = [1, 2, 3];
+  const arr02 = [3, 4, 5];
+  console.log(combinarArreglos(arr01, arr02)); // Salida: [1, 2, 3, 4, 5]
   

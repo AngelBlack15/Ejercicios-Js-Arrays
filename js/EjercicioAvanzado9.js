@@ -6,6 +6,6 @@ function contarFrecuencia(arr) {
   }
   
   // Ejemplo de uso
-  const numeros = [1, 2, 2, 3, 3, 3];
-  console.log(contarFrecuencia(numeros)); // Salida: { '1': 1, '2': 2, '3': 3 }
+  const numeros009 = [1, 2, 2, 3, 3, 3];
+  console.log(contarFrecuencia(numeros009)); // Salida: { '1': 1, '2': 2, '3': 3 }
   

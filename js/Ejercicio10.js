@@ -3,5 +3,5 @@ function multiplicarPorDos(arr) {
 }
 
 // Ejemplo de uso
-const numeros = [1, 2, 3, 4];
-console.log(multiplicarPorDos(numeros)); // Salida: [2, 4, 6, 8]
+const numeros10 = [1, 2, 3, 4];
+console.log(multiplicarPorDos(numeros10)); // Salida: [2, 4, 6, 8]

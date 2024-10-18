@@ -3,5 +3,5 @@ function ordenAlfabetico(arr) {
 }
 
 // Ejemplo de uso
-const palabras = ["a", "b", "Aa", "AA"];
-console.log(ordenAlfabetico(palabras)); // Salida: ['AA', 'Aa', 'a', 'b']
+const palabras1 = ["a", "b", "Aa", "AA"];
+console.log(ordenAlfabetico(palabras1)); // Salida: ['AA', 'Aa', 'a', 'b']

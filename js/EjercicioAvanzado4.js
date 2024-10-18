@@ -3,6 +3,6 @@ function reemplazarNegativos(arr) {
   }
   
   // Ejemplo de uso
-  const numeros = [1, -2, 3, -4];
-  console.log(reemplazarNegativos(numeros)); // Salida: [1, 2, 3, 4]
+  const numeros004 = [1, -2, 3, -4];
+  console.log(reemplazarNegativos(numeros004)); // Salida: [1, 2, 3, 4]
   

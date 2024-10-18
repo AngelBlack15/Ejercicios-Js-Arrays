@@ -3,7 +3,7 @@ function todosMayores(arr, n) {
   }
   
   // Ejemplo de uso
-  const numeros = [10, 20, 30];
-  console.log(todosMayores(numeros, 5)); // Salida: true
-  console.log(todosMayores(numeros, 25)); // Salida: false
+  const numeros7 = [10, 20, 30];
+  console.log(todosMayores(numeros7, 5)); // Salida: true
+  console.log(todosMayores(numeros7, 25)); // Salida: false
   

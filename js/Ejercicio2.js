@@ -3,5 +3,5 @@ function numeroMayor(arr) {
 }
 
 // Ejemplo de uso
-const numeros = [3, 7, 2, 9, 5];
-console.log(numeroMayor(numeros)); // Salida: 9
+const numeross = [3, 7, 2, 9, 5];
+console.log(numeroMayor(numeross)); // Salida: 9

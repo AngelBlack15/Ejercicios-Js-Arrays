@@ -3,5 +3,5 @@ function ordenarNumeros(arr) {
 }
 
 // Ejemplo de uso
-const numeros = [3, 7, 2, 9, 5];
-console.log(ordenarNumeros(numeros)); // Salida: [2, 3, 5, 7, 9]
+const numeros2 = [3, 7, 2, 9, 5];
+console.log(ordenarNumeros(numeros2)); // Salida: [2, 3, 5, 7, 9]
